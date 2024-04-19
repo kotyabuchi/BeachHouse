@@ -9,25 +9,67 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/shaved_ice_bowl_1"
+      "model": "minecraft:item/shaved_ice_1"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/shaved_ice_bowl_2"
+      "model": "minecraft:item/shaved_ice_2"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "minecraft:item/shaved_ice_bowl_3"
+      "model": "minecraft:item/shaved_ice_3"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "minecraft:item/shaved_ice_bowl_4"
+      "model": "minecraft:item/shaved_ice_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/shaved_ice_red"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/shaved_ice_yellow"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/shaved_ice_green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/shaved_ice_blue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/juice_grape"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/juice_water_melon"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/beer"
     }
   ]
 }
