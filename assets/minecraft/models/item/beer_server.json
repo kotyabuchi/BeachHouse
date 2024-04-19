@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/beer_server",
-		"particle": "block/beer_server"
+		"0": "item/beer_server",
+		"particle": "item/beer_server"
 	},
 	"elements": [
 		{
