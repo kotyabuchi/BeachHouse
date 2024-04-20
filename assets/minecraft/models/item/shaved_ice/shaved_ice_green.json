@@ -3,7 +3,7 @@
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/shaved_ice_green",
-		"particle": "item/shaved_ice_green"
+		"particle": "block/snow"
 	},
 	"elements": [
 		{
@@ -631,18 +631,24 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 4, 0]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 5, 0]
 		},
 		"ground": {
 			"translation": [0, 5, 0]
 		},
+		"gui": {
+			"translation": [0, 5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
 		"head": {
 			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 5, 0],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
