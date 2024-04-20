@@ -82,6 +82,30 @@
         "custom_model_data": 13
       },
       "model": "minecraft:item/drink/soda"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "minecraft:item/food/sausage_row"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "minecraft:item/food/sausage_half_baked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 16
+      },
+      "model": "minecraft:item/food/sausage_full_baked"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 17
+      },
+      "model": "minecraft:item/food/sausage_with_source"
     }
   ]
 }
