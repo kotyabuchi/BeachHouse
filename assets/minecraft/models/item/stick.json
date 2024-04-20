@@ -8,43 +8,43 @@
       "predicate": {
         "custom_model_data": 1
       },
-      "model": "minecraft:item/shaved_ice_machine"
+      "model": "minecraft:item/machine/shaved_ice_machine"
     },
     {
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/shaved_ice_machine_handle_vertical"
+      "model": "minecraft:item/machine/shaved_ice_machine_handle_vertical"
     },
     {
       "predicate": {
         "custom_model_data": 3
       },
-      "model": "minecraft:item/shaved_ice_machine_item"
+      "model": "minecraft:item/machine/shaved_ice_machine_item"
     },
     {
       "predicate": {
         "custom_model_data": 4
       },
-      "model": "minecraft:item/juice_glass"
+      "model": "minecraft:item/drink/juice_glass"
     },
     {
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "minecraft:item/beer_mug"
+      "model": "minecraft:item/drink/beer_mug"
     },
     {
       "predicate": {
         "custom_model_data": 6
       },
-      "model": "minecraft:item/beer_server"
+      "model": "minecraft:item/machine/beer_server"
     },
     {
       "predicate": {
         "custom_model_data": 7
       },
-      "model": "minecraft:item/juice_server"
+      "model": "minecraft:item/machine/juice_server"
     }
   ]
 }
