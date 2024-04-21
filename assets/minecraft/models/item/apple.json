@@ -57,61 +57,49 @@
       "predicate": {
         "custom_model_data": 9
       },
-      "model": "minecraft:item/drink/juice_grape"
+      "model": "minecraft:item/food/sausage_row"
     },
     {
       "predicate": {
         "custom_model_data": 10
       },
-      "model": "minecraft:item/drink/juice_water_melon"
+      "model": "minecraft:item/food/sausage_half_baked"
     },
     {
       "predicate": {
         "custom_model_data": 11
       },
-      "model": "minecraft:item/drink/beer"
+      "model": "minecraft:item/food/sausage_full_baked"
     },
     {
       "predicate": {
         "custom_model_data": 12
       },
-      "model": "minecraft:item/drink/coke"
+      "model": "minecraft:item/food/sausage_with_source"
     },
     {
       "predicate": {
         "custom_model_data": 13
       },
-      "model": "minecraft:item/drink/soda"
+      "model": "minecraft:item/food/cucumber"
     },
     {
       "predicate": {
         "custom_model_data": 14
       },
-      "model": "minecraft:item/food/sausage_row"
+      "model": "minecraft:item/food/corn_row"
     },
     {
       "predicate": {
         "custom_model_data": 15
       },
-      "model": "minecraft:item/food/sausage_half_baked"
+      "model": "minecraft:item/food/corn_half_baked"
     },
     {
       "predicate": {
         "custom_model_data": 16
       },
-      "model": "minecraft:item/food/sausage_full_baked"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 17
-      },
-      "model": "minecraft:item/food/sausage_with_source"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 18
-      },
-      "model": "minecraft:item/food/cucumber"
+      "model": "minecraft:item/food/corn_full_baked"
     }
   ]
 }
