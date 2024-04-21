@@ -1,0 +1,40 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+
+    "overrides": [
+        {
+        "predicate": {
+          "custom_model_data": 1
+        },
+        "model": "minecraft:item/drink/juice_grape"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 2
+        },
+        "model": "minecraft:item/drink/juice_water_melon"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 3
+        },
+        "model": "minecraft:item/drink/beer"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 4
+        },
+        "model": "minecraft:item/drink/coke"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 5
+        },
+        "model": "minecraft:item/drink/soda"
+      }
+    ]
+}
