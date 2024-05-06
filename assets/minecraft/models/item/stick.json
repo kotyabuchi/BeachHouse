@@ -27,6 +27,12 @@
         "custom_model_data": 4
       },
       "model": "minecraft:item/placeable/storage/cooler_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "minecraft:item/border"
     }
   ]
 }
