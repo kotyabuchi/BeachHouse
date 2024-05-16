@@ -32,7 +32,19 @@
       "predicate": {
         "custom_model_data": 5
       },
-      "model": "minecraft:item/border"
+      "model": "minecraft:item/glass_bowl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "minecraft:item/gui_test"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "minecraft:item/popup_test"
     }
   ]
 }

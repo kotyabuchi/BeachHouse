@@ -14,7 +14,7 @@
       "predicate": {
         "custom_model_data": 2
       },
-      "model": "minecraft:item/placeable/machine/shaved_ice_machine_handle_vertical"
+      "model": "minecraft:item/placeable/machine/shaved_ice_machine_handle"
     },
     {
       "predicate": {
@@ -45,6 +45,36 @@
         "custom_model_data": 7
       },
       "model": "minecraft:item/placeable/storage/cooler_box"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "minecraft:item/placeable/machine/shaved_ice_machine_handle_with_ice"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "minecraft:item/shaved_ice/syrup/red_syrup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "minecraft:item/shaved_ice/syrup/blue_syrup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "minecraft:item/shaved_ice/syrup/green_syrup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "minecraft:item/shaved_ice/syrup/yellow_syrup"
     }
   ]
 }
